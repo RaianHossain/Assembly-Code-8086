@@ -136,7 +136,7 @@ END:
  TOTAL:
     
       MOV AH,2
-      MOV DX,ODH
+      MOV DX,0DH
       INT 21H
       
       
